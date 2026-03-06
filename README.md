@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-Hub-Dev&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Sanjay-Hub-Dev" />
+</p>
+
 # Hi 👋 I'm Sanjay
 
 Full Stack Developer | MERN Stack | DSA | DevOps
