@@ -10,7 +10,7 @@ Full Stack Developer | MERN Stack | DSA | DevOps
 ## 🚀 About Me
 
 - 💻 Building scalable MERN stack applications
-- 🧠 Solved 250+ DSA problems on LeetCode
+- 🧠 Solved 300+ DSA problems on LeetCode
 - 🔐 Experience with JWT Authentication & Role-Based Access
 - ⚡ Built real-time systems using Socket.io & WebRTC
 - 🤖 Integrated OpenAI APIs in full-stack projects
